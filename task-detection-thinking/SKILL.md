@@ -2,7 +2,8 @@
 name: task-detection-thinking
 description: Incomplete task detection + proactive thinking. Automatically scans task status, identifies anomalies, generates solutions, and attempts auto-fixes.
 version: 1.0.0
-author: clawwizard
+author: jason-tiger
+source:https://github.com/OpenDolph/skills/tree/main/task-detection-thinking
 ---
 
 # Task Detection + Proactive Thinking Skill
